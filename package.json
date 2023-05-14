@@ -4,11 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.ts"
   },
   "keywords": [],
   "author": "Ben Halverson",
-  "license": "ISC",
   "dependencies": {
     "@types/node": "^20.1.4",
     "typescript": "^5.0.4"
